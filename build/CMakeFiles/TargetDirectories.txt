@@ -1,0 +1,3 @@
+C:/Users/lixia/Desktop/Learning/build/CMakeFiles/Learning.dir
+C:/Users/lixia/Desktop/Learning/build/CMakeFiles/edit_cache.dir
+C:/Users/lixia/Desktop/Learning/build/CMakeFiles/rebuild_cache.dir
